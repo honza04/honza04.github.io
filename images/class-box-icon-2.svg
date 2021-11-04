@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #efb400 } 
+	</style>
+	<g id="Vrstva 1">
+		<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="shp0" d="M46 10L45.98 34C45.98 36.2 44.2 38 42 38L32 38L32 42L16 42L16 38L6 38C3.78 38 2 36.2 2 34L2 10C2 7.78 3.78 6 6 6L42 6C44.2 6 46 7.78 46 10ZM42 10L6 10L6 34L42 34L42 10ZM32 22L18 30L18 14L32 22Z" />
+	</g>
+</svg>
